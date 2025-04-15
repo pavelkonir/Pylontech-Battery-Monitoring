@@ -33,8 +33,8 @@ This battery uses RJ45 cable instead of RJ10. Schematics is the same only plug d
     
 | RJ45 | ATOMIC RS232 PIN|
 |------|--------------|
-|PIN 3 (white-green)|     R        |
-|PIN 6 (green)|     T        |
+|PIN 3 (white-green)|     T        |
+|PIN 6 (green)|     R        |
 |PIN 8 (brown)|     G        |
 
 ![image](https://user-images.githubusercontent.com/19826327/146428324-29e3f9bf-6cc3-415c-9d60-fa5ee3d65613.png)
